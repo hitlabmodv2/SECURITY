@@ -1,2 +1,2 @@
 USERNAME=wily
-PASSWORD=wily1
+PASSWORD=wily
