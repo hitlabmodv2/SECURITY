@@ -1,0 +1,2 @@
+USERNAME=wily
+PASSWORD=wily
