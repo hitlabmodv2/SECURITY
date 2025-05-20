@@ -1,1 +1,1 @@
-PASSWORD=wily1
+PASSWORD=kontol
