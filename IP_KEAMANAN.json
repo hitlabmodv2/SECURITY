@@ -1,8 +1,8 @@
 {
     "ipAddresses": [
         {
-            "ip": "192.168.1.1",
-            "username": "user1"
+            "ip": "172.31.128.10",
+            "username": "8bcb01c93b2c_linux_x"
         },
         {
             "ip": "192.168.1.2",
