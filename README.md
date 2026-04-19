@@ -78,20 +78,78 @@ global.stickauth = 'By ©𝗪𝗶𝗹𝘆'
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Chat%20Langsung-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54)](https://wa.me/6289688206739)
-[![Telegram](https://img.shields.io/badge/✈️%20Telegram-@Wilykun1994-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a)](https://t.me/Wilykun1994)
-[![Facebook](https://img.shields.io/badge/👤%20Facebook-Wily%20Kun-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d0d)](https://www.facebook.com/wily.kun.1)
-[![YouTube](https://img.shields.io/badge/▶️%20YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a1a)](https://youtube.com/@ukosamasomoni1956)
-[![Gmail](https://img.shields.io/badge/📧%20Email-Kirim%20Pesan-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:kunwily1994@gmail.com)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://wa.me/6289688206739">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp"/><br/>
+        <sub><b>💬 Chat WA</b></sub><br/>
+        <sub>089-688-206-739</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/Wilykun1994">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="Telegram"/><br/>
+        <sub><b>✈️ Telegram</b></sub><br/>
+        <sub>@Wilykun1994</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/wily.kun.1">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40" alt="Facebook"/><br/>
+        <sub><b>👤 Facebook</b></sub><br/>
+        <sub>Wily Kun</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtube.com/@ukosamasomoni1956">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="YouTube"/><br/>
+        <sub><b>▶️ YouTube</b></sub><br/>
+        <sub>Subscribe</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:kunwily1994@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/><br/>
+        <sub><b>📧 Email</b></sub><br/>
+        <sub>Kirim Pesan</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 **🔗 Grup & Channel Ashi Bot**
 
-[![GC V1](https://img.shields.io/badge/👥%20Grup%20Bot-V1%20Join-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KOHWg6v5GCc9pxpVIj0GtB)
-[![GC V2](https://img.shields.io/badge/👥%20Grup%20Bot-V2%20Join-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/H9UeMjqecE94rKo4NnVAP8)
-[![Channel V1](https://img.shields.io/badge/📢%20Channel-V1%20Follow-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaiyhS37IUYSuDJoJj1L)
-[![Channel V2](https://img.shields.io/badge/📢%20Channel-V2%20Follow-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vavn0K2IHphFVpTvgz1V)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://chat.whatsapp.com/KOHWg6v5GCc9pxpVIj0GtB">
+        <img src="https://img.shields.io/badge/Grup%20Bot%20V1-JOIN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="36" alt="GC V1"/><br/>
+        <sub><b>👥 Grup Bot V1</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://chat.whatsapp.com/H9UeMjqecE94rKo4NnVAP8">
+        <img src="https://img.shields.io/badge/Grup%20Bot%20V2-JOIN-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" height="36" alt="GC V2"/><br/>
+        <sub><b>👥 Grup Bot V2</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://whatsapp.com/channel/0029VaiyhS37IUYSuDJoJj1L">
+        <img src="https://img.shields.io/badge/Channel%20WA%20V1-FOLLOW-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" height="36" alt="Channel V1"/><br/>
+        <sub><b>📢 Channel V1</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://whatsapp.com/channel/0029Vavn0K2IHphFVpTvgz1V">
+        <img src="https://img.shields.io/badge/Channel%20WA%20V2-FOLLOW-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" height="36" alt="Channel V2"/><br/>
+        <sub><b>📢 Channel V2</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
