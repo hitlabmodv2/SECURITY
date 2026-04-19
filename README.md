@@ -28,6 +28,26 @@
 
 <br/>
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" alt="Anime Girl Coding at Night"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=128C7E&center=true&vCenter=true&width=480&lines=Coding+under+the+moonlight...;Every+line+of+code+tells+a+story;Ashi+Bot+%E2%80%94+Built+with+love+%26+dedication" alt="Night coder quote"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 ## 👑 Owner & Bot Info
 
 <div align="center">
