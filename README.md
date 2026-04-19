@@ -1,60 +1,103 @@
+<a href="https://github.com/IbraDecode/socketon">
+<img src="https://capsule-render.netlify.app/api?type=waving&color=0:075E54,50:128C7E,100:25D366&height=220&section=header&text=🤖%20Ashi%20Bot&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=WhatsApp%20Bot%20API%20%7C%20Socketon%20%2B%20Baileys&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
+</a>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=25D366&center=true&vCenter=true&width=600&lines=🤖+Ashi+Bot+WhatsApp+API;Built+on+Socketon+%2B+Baileys;By+Wily+Kun+%7C+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=800&color=25D366&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=⚡+Socketon+WhatsApp+Bot+API+v1.8.28;🚀+Powered+by+Baileys+%2B+Node.js+%3E%3D+20;🤖+Ashi+Bot+—+By+𝗪𝗶𝗹𝘆+𝗞𝘂𝗻;💬+Poll+%7C+Edit+%7C+Group+%7C+Newsletter+%7C+More!;🔥+Active+%26+Always+Updated+2026" alt="Typing Animation"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Version-1.8.28-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-%3E%3D20.0.0-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=statuspage&logoColor=white" />
+<img src="https://img.shields.io/badge/-%F0%9F%93%A6%20Version%201.8.28-25D366?style=for-the-badge&labelColor=075E54" />
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-%E2%89%A5%2020.0.0-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/License-MIT-3572A5?style=for-the-badge&labelColor=1a1a1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-🟢%20Active-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
 
 <br/><br/>
 
-> **Socketon** adalah modifikasi WhatsApp API berbasis **Baileys** yang dikembangkan untuk kebutuhan bot WhatsApp berfitur lengkap, stabil, dan aman.  
-> Digunakan dan dikembangkan oleh **𝗪𝗶𝗹𝘆 𝗞𝘂𝗻** untuk **𝗔𝘀𝗵𝗶 𝗕𝗼𝘁**.
+<img src="https://img.shields.io/badge/WhatsApp%20API-Socketon-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Protocol-Baileys-128C7E?style=flat-square&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Encryption-Signal%20E2E-4A90D9?style=flat-square&logo=signal&logoColor=white" />
+<img src="https://img.shields.io/badge/Year-2026-ff6b35?style=flat-square" />
 
 </div>
 
----
+<img src="https://capsule-render.netlify.app/api?type=rect&color=0:25D366,100:075E54&height=3&section=header" width="100%"/>
 
-## 👑 Owner / Pengembang
+<br/>
+
+## 👑 Owner & Bot Info
 
 <div align="center">
 
-| Info | Detail |
-|------|--------|
-| 👤 **Nama** | 𝗪𝗶𝗹𝘆 𝗞𝘂𝗻 |
-| 🤖 **Nama Bot** | 𝗔𝘀𝗵𝗶 𝗕𝗼𝘁 |
-| 📱 **WhatsApp** | [089-688-206-739](https://wa.me/6289688206739) |
-| 📢 **Telegram** | [@Wilykun1994](https://t.me/Wilykun1994) |
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧑‍💻 Profil Owner
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=25D366&center=true&vCenter=true&width=300&lines=𝗪𝗶𝗹𝘆+𝗞𝘂𝗻;Bot+Developer+%26+Owner;WhatsApp+Bot+Enthusiast" />
+
+| | |
+|--|--|
+| 👤 **Owner** | 𝗪𝗶𝗹𝘆 𝗞𝘂𝗻 |
+| 🤖 **Bot** | 𝗔𝘀𝗵𝗶 𝗕𝗼𝘁 |
+| 📱 **WA** | 089-688-206-739 |
+| 📢 **Tele** | @Wilykun1994 |
+| 📧 **Email** | kunwily1994@gmail.com |
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 Konfigurasi Bot
+
+```js
+// Bot Identity
+global.botName  = '𝗔𝘀𝗵𝗶 𝗕𝗼𝘁'
+global.owner    = '𝗪𝗶𝗹𝘆 𝗞𝘂𝗻'
+global.ownerNum = '6289688206739'
+
+// Sticker Watermark
+global.stickpack = '𝗔𝘀𝗵𝗶 𝗕𝗼𝘁'
+global.stickauth = 'By ©𝗪𝗶𝗹𝘆'
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
-### 🌐 Media Sosial
+<br/>
+
+## 🌐 Sosial Media & Komunitas
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289688206739)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Wilykun1994)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wily.kun.1)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ukosamasomoni1956)
-[![Email](https://img.shields.io/badge/Email-Kirim%20Pesan-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunwily1994@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Chat%20Langsung-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54)](https://wa.me/6289688206739)
+[![Telegram](https://img.shields.io/badge/✈️%20Telegram-@Wilykun1994-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a)](https://t.me/Wilykun1994)
+[![Facebook](https://img.shields.io/badge/👤%20Facebook-Wily%20Kun-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d0d)](https://www.facebook.com/wily.kun.1)
+[![YouTube](https://img.shields.io/badge/▶️%20YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a1a)](https://youtube.com/@ukosamasomoni1956)
+[![Gmail](https://img.shields.io/badge/📧%20Email-Kirim%20Pesan-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:kunwily1994@gmail.com)
+
+<br/>
+
+**🔗 Grup & Channel Ashi Bot**
+
+[![GC V1](https://img.shields.io/badge/👥%20Grup%20Bot-V1%20Join-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KOHWg6v5GCc9pxpVIj0GtB)
+[![GC V2](https://img.shields.io/badge/👥%20Grup%20Bot-V2%20Join-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/H9UeMjqecE94rKo4NnVAP8)
+[![Channel V1](https://img.shields.io/badge/📢%20Channel-V1%20Follow-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaiyhS37IUYSuDJoJj1L)
+[![Channel V2](https://img.shields.io/badge/📢%20Channel-V2%20Follow-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vavn0K2IHphFVpTvgz1V)
 
 </div>
 
-### 🔗 Grup & Channel Ashi Bot
+<img src="https://capsule-render.netlify.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
 
-<div align="center">
-
-[![GC Bot V1](https://img.shields.io/badge/Grup%20WhatsApp-V1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KOHWg6v5GCc9pxpVIj0GtB)
-[![GC Bot V2](https://img.shields.io/badge/Grup%20WhatsApp-V2-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/H9UeMjqecE94rKo4NnVAP8)
-[![Channel V1](https://img.shields.io/badge/Channel%20WA-V1-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaiyhS37IUYSuDJoJj1L)
-[![Channel V2](https://img.shields.io/badge/Channel%20WA-V2-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vavn0K2IHphFVpTvgz1V)
-
-</div>
-
----
+<br/>
 
 ## 📦 Instalasi
 
@@ -62,9 +105,9 @@
 npm install socketon
 ```
 
-**Persyaratan:** Node.js >= 20.0.0
+> ⚡ **Persyaratan:** Node.js `>= 20.0.0`
 
----
+<br/>
 
 ## ⚡ Quick Start
 
@@ -72,106 +115,118 @@ npm install socketon
 const { makeWASocket, useMultiFileAuthState, DisconnectReason } = require('socketon');
 const pino = require('pino');
 
-async function start() {
-    const { state, saveCreds } = await useMultiFileAuthState('./auth');
+async function AshiBot() {
+    const { state, saveCreds } = await useMultiFileAuthState('./auth_ashi');
     
     const sock = makeWASocket({
         logger: pino({ level: 'silent' }),
         auth: state,
-        printQRInTerminal: true
+        printQRInTerminal: true,
+        browser: ['𝗔𝘀𝗵𝗶 𝗕𝗼𝘁', 'Chrome', '126.0']
     });
 
-    sock.ev.on('connection.update', async (update) => {
-        const { connection, lastDisconnect } = update;
+    sock.ev.on('connection.update', async ({ connection, lastDisconnect }) => {
         if (connection === 'close') {
-            const shouldReconnect = lastDisconnect?.error?.output?.statusCode !== DisconnectReason.loggedOut;
-            if (shouldReconnect) start();
+            const code = lastDisconnect?.error?.output?.statusCode;
+            if (code !== DisconnectReason.loggedOut) AshiBot();
         } else if (connection === 'open') {
-            console.log('✅ Ashi Bot Terhubung!');
+            console.log('✅ 𝗔𝘀𝗵𝗶 𝗕𝗼𝘁 Terhubung!');
         }
     });
 
     sock.ev.on('messages.upsert', async ({ messages }) => {
         const msg = messages[0];
         if (!msg.key.fromMe && msg.message) {
-            console.log('📩 Pesan baru:', msg);
+            // Handle pesan masuk di sini
         }
     });
 
     sock.ev.on('creds.update', saveCreds);
 }
 
-start();
+AshiBot();
 ```
 
----
+<br/>
+
+<img src="https://capsule-render.netlify.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
 
 ## 🚀 Fitur Lengkap
 
-<details>
-<summary><b>💬 Pesan (Messages)</b></summary>
+<div align="center">
 
-### Kirim Berbagai Jenis Pesan
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=25D366&center=true&vCenter=true&width=600&lines=💬+Kirim+teks%2C+gambar%2C+video%2C+audio+%26+dokumen;📊+Buat+Poll+Interaktif+%28BARU%29;✏️+Edit+Pesan+Terkirim+%28BARU%29;👥+Kelola+Grup+%26+Anggota+secara+penuh;📰+Support+Newsletter+%2F+Channel+WhatsApp;🔐+QR+%26+Pairing+Code+Authentication" />
+
+</div>
+
+<br/>
+
+<details>
+<summary><img src="https://img.shields.io/badge/💬%20PESAN-Messages-25D366?style=for-the-badge&logoColor=white" /></summary>
+
+<br/>
 
 ```javascript
-// Teks biasa
-await sock.sendMessage(jid, { text: 'Halo dari Ashi Bot! 👋' });
+// ✉️ Teks
+await sock.sendMessage(jid, { text: 'Halo dari 𝗔𝘀𝗵𝗶 𝗕𝗼𝘁! 👋' });
 
-// Gambar
-await sock.sendMessage(jid, { image: { url: './foto.jpg' }, caption: 'Caption' });
+// 🖼️ Gambar
+await sock.sendMessage(jid, { image: { url: './foto.jpg' }, caption: 'Caption keren' });
 
-// Video
+// 🎬 Video
 await sock.sendMessage(jid, { video: { url: './video.mp4' }, caption: 'Video' });
 
-// Audio
+// 🎵 Audio (Voice Note)
 await sock.sendMessage(jid, { audio: { url: './audio.mp3' }, mimetype: 'audio/mp4', ptt: true });
 
-// Dokumen
-await sock.sendMessage(jid, { document: { url: './file.pdf' }, mimetype: 'application/pdf', fileName: 'file.pdf' });
+// 📄 Dokumen
+await sock.sendMessage(jid, { document: { url: './file.pdf' }, mimetype: 'application/pdf', fileName: 'dokumen.pdf' });
 
-// Stiker
+// 🎭 Stiker
 await sock.sendMessage(jid, { sticker: { url: './sticker.webp' } });
 
-// Lokasi
+// 📍 Lokasi
 await sock.sendMessage(jid, { location: { degreesLatitude: -6.2, degreesLongitude: 106.8 } });
 
-// Kontak
+// 👤 Kontak
 await sock.sendMessage(jid, { contacts: { displayName: 'Wily Kun', contacts: [{ vcard: '...' }] } });
 
-// Reaksi pesan
+// ❤️ Reaksi Pesan
 await sock.sendMessage(jid, { react: { key: msg.key, text: '🔥' } });
 
-// Balas pesan (quoted)
-await sock.sendMessage(jid, { text: 'Balasan' }, { quoted: msg });
+// 💬 Balas (Quoted)
+await sock.sendMessage(jid, { text: 'Ini balasan!' }, { quoted: msg });
 
-// Hapus pesan
+// 🗑️ Hapus Pesan
 await sock.sendMessage(jid, { delete: msg.key });
 
-// Edit pesan (baru ✨)
-await sock.sendMessage(jid, { edit: msg.key, text: 'Teks yang sudah diedit' });
+// ✏️ Edit Pesan
+await sock.sendMessage(jid, { edit: msg.key, text: 'Teks sudah diedit ✅' });
 ```
 
 </details>
 
 <details>
-<summary><b>📊 Poll / Jajak Pendapat (BARU ✨)</b></summary>
+<summary><img src="https://img.shields.io/badge/📊%20POLL-Jajak%20Pendapat%20✨%20BARU-FF6B35?style=for-the-badge&logoColor=white" /></summary>
 
-Kirim poll interaktif langsung dari bot!
+<br/>
+
+> Fitur **baru** dari Baileys — kirim poll interaktif langsung dari bot!
 
 ```javascript
-// Kirim poll
+// 📊 Kirim Poll (pilih 1)
 await sock.sendPollMessage(
     jid,
-    'Pilih menu favorit kamu:',       // judul poll
-    ['Nasi Goreng', 'Mie Ayam', 'Soto'], // pilihan
-    1                                  // jumlah pilihan yang bisa dipilih
+    '🍜 Menu favorit kamu?',
+    ['Nasi Goreng', 'Mie Ayam', 'Soto Betawi', 'Gado-Gado'],
+    1
 );
 
-// Poll dengan multi-pilih
+// 📊 Poll Multi-Pilih (pilih lebih dari 1)
 await sock.sendPollMessage(
     jid,
-    'Pilih hobi kamu (boleh lebih dari satu):',
-    ['Gaming', 'Coding', 'Musik', 'Olahraga'],
+    '🎮 Hobi kamu? (boleh pilih 3)',
+    ['Gaming', 'Coding', 'Musik', 'Olahraga', 'Nonton'],
     3
 );
 ```
@@ -179,94 +234,107 @@ await sock.sendPollMessage(
 </details>
 
 <details>
-<summary><b>✏️ Edit & Hapus Pesan (BARU ✨)</b></summary>
+<summary><img src="https://img.shields.io/badge/✏️%20EDIT-Edit%20Pesan%20✨%20BARU-9B59B6?style=for-the-badge&logoColor=white" /></summary>
+
+<br/>
+
+> Edit pesan yang sudah terkirim — cocok untuk bot info yang perlu update.
 
 ```javascript
-// Edit pesan yang sudah dikirim
-const sentMsg = await sock.sendMessage(jid, { text: 'Pesan awal' });
-await sock.editMessage(jid, sentMsg, { text: 'Pesan sudah diedit!' });
+// Kirim pesan dulu
+const sentMsg = await sock.sendMessage(jid, { text: '🕐 Loading...' });
 
-// Hapus pesan (untuk semua orang)
-await sock.sendMessage(jid, { delete: sentMsg.key });
+// Lalu edit pesannya
+await sock.editMessage(jid, sentMsg, 'Data sudah diperbarui ✅');
+// atau dengan object
+await sock.editMessage(jid, sentMsg, { text: '✅ Selesai diproses!' });
 ```
 
 </details>
 
 <details>
-<summary><b>👥 Grup</b></summary>
+<summary><img src="https://img.shields.io/badge/👥%20GRUP-Group%20Management-128C7E?style=for-the-badge&logoColor=white" /></summary>
+
+<br/>
 
 ```javascript
-// Buat grup baru
-await sock.groupCreate('Nama Grup', ['628xxx@s.whatsapp.net']);
+// 🆕 Buat grup
+await sock.groupCreate('Nama Grup Keren', ['628xxx@s.whatsapp.net']);
 
-// Tambah/hapus/promote/demote anggota
-await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'add');    // tambah
-await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'remove'); // hapus
-await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'promote'); // jadikan admin
-await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'demote');  // turunkan admin
+// 👤 Kelola anggota
+await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'add');      // Tambah
+await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'remove');   // Hapus
+await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'promote'); // Jadikan Admin
+await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'demote');  // Turunkan Admin
 
-// Info grup
-await sock.groupMetadata(jid);
+// 📋 Info grup
+const meta = await sock.groupMetadata(jid);
 
-// Kode undangan
-await sock.groupInviteCode(jid);
+// 🔗 Kode undangan
+const code = await sock.groupInviteCode(jid);
+await sock.groupRevokeInvite(jid);         // Reset kode undangan
+await sock.groupAcceptInvite('kodenya');   // Gabung via kode
 
-// Perbarui nama & deskripsi grup
-await sock.groupUpdateSubject(jid, 'Nama Grup Baru');
+// ✏️ Edit nama & deskripsi
+await sock.groupUpdateSubject(jid, 'Nama Baru');
 await sock.groupUpdateDescription(jid, 'Deskripsi baru');
 
-// Pesan hilang (ephemeral)
-await sock.groupToggleEphemeral(jid, 604800); // 7 hari
+// ⏰ Pesan Hilang (Ephemeral)
+await sock.groupToggleEphemeral(jid, 86400);   // 1 hari
+await sock.groupToggleEphemeral(jid, 604800);  // 7 hari
 
-// Terima undangan grup
-await sock.groupAcceptInvite('kode_undangan');
+// ⚙️ Mode bergabung
+await sock.groupMemberAddMode(jid, 'admin_add');      // Admin only
+await sock.groupMemberAddMode(jid, 'all_member_add'); // Semua bisa ajak
 
-// Tinggalkan grup
+// ✅ Kelola permintaan bergabung
+const requests = await sock.groupRequestParticipantsList(jid);
+await sock.groupRequestParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'approve');
+await sock.groupRequestParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'reject');
+
+// 🚪 Keluar grup
 await sock.groupLeave(jid);
-
-// Mode tambah anggota (admin only / semua anggota)
-await sock.groupMemberAddMode(jid, 'admin_add'); // atau 'all_member_add'
-
-// Kelola permintaan bergabung
-await sock.groupRequestParticipantsList(jid);
-await sock.groupRequestParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'approve'); // atau 'reject'
 ```
 
 </details>
 
 <details>
-<summary><b>📰 Newsletter / Channel WhatsApp</b></summary>
+<summary><img src="https://img.shields.io/badge/📰%20NEWSLETTER-Channel%20WhatsApp-075E54?style=for-the-badge&logoColor=white" /></summary>
+
+<br/>
 
 ```javascript
-// Buat newsletter
-await sock.newsletterCreate('Nama Channel', 'Deskripsi', ['👍']);
+// 🆕 Buat newsletter
+await sock.newsletterCreate('Nama Channel', 'Deskripsi channel keren', ['👍', '🔥']);
 
-// Ikuti/berhenti ikuti newsletter
+// ➕ Ikuti / berhenti ikuti
 await sock.newsletterFollow(newsletterJid);
 await sock.newsletterUnfollow(newsletterJid);
 
-// Info newsletter
+// 📋 Info newsletter
 await sock.newsletterMetadata('invite', 'kode');
 
-// Kirim reaksi ke pesan newsletter
+// ❤️ Reaksi ke pesan newsletter
 await sock.newsletterReactMessage(newsletterJid, serverId, '🔥');
 ```
 
 </details>
 
 <details>
-<summary><b>🔐 Autentikasi</b></summary>
+<summary><img src="https://img.shields.io/badge/🔐%20AUTH-Autentikasi-3498DB?style=for-the-badge&logoColor=white" /></summary>
+
+<br/>
 
 ```javascript
-// QR Code (default)
+// 📱 QR Code (scan biasa)
 const sock = makeWASocket({ printQRInTerminal: true });
 
-// Pairing Code (tanpa scan QR)
+// 🔢 Pairing Code (tanpa scan QR — lebih mudah!)
 const sock = makeWASocket({ printQRInTerminal: false });
 const code = await sock.requestPairingCode('628xxxxxxxxxx');
-console.log('Kode pairing:', code);
+console.log('Kode Pairing:', code); // Masukkan di WhatsApp > Perangkat Tertaut
 
-// Simpan sesi
+// 💾 Simpan sesi
 const { state, saveCreds } = await useMultiFileAuthState('./auth_folder');
 sock.ev.on('creds.update', saveCreds);
 ```
@@ -274,175 +342,180 @@ sock.ev.on('creds.update', saveCreds);
 </details>
 
 <details>
-<summary><b>👤 Profil & Privasi</b></summary>
+<summary><img src="https://img.shields.io/badge/👤%20PROFIL-Profile%20%26%20Privasi-E74C3C?style=for-the-badge&logoColor=white" /></summary>
+
+<br/>
 
 ```javascript
-// Update foto profil
+// 🖼️ Update foto profil
 await sock.updateProfilePicture(jid, { url: './foto.jpg' });
 
-// Update nama profil
-await sock.updateProfileName('Ashi Bot 🤖');
+// 📝 Update nama & status/bio
+await sock.updateProfileName('𝗔𝘀𝗵𝗶 𝗕𝗼𝘁 🤖');
+await sock.updateProfileStatus('Ashi Bot aktif 24 jam! 🚀');
 
-// Update status/bio
-await sock.updateProfileStatus('Hai! Aku Ashi Bot 🤖');
-
-// Ambil foto profil
-const url = await sock.profilePictureUrl(jid, 'image');
-
-// Cek status/bio kontak
-const status = await sock.fetchStatus(jid);
-
-// Cek privasi
+// 🔍 Ambil info kontak
+const fotoUrl = await sock.profilePictureUrl(jid, 'image');
+const status  = await sock.fetchStatus(jid);
 const privacy = await sock.fetchPrivacySettings();
 
-// Blokir kontak
+// 🚫 Blokir / buka blokir
 await sock.updateBlockStatus(jid, 'block');
-
-// Buka blokir kontak
 await sock.updateBlockStatus(jid, 'unblock');
-
-// Daftar kontak yang diblokir
 const blocklist = await sock.fetchBlocklist();
 ```
 
 </details>
 
 <details>
-<summary><b>💡 Presence (Indikator Mengetik / Merekam)</b></summary>
+<summary><img src="https://img.shields.io/badge/💡%20PRESENCE-Indikator%20Mengetik-F39C12?style=for-the-badge&logoColor=white" /></summary>
+
+<br/>
 
 ```javascript
-// Tampilkan indikator "sedang mengetik..."
+// ⌨️ Tampilkan "sedang mengetik..."
 await sock.sendPresenceUpdate('composing', jid);
 
-// Tampilkan indikator "sedang merekam audio..."
+// 🎙️ Tampilkan "sedang merekam audio..."
 await sock.sendPresenceUpdate('recording', jid);
 
-// Hentikan indikator
+// ⏸️ Hentikan indikator
 await sock.sendPresenceUpdate('paused', jid);
 
-// Subscribe ke presence kontak lain
+// 👁️ Subscribe ke presence orang lain
 await sock.presenceSubscribe(jid);
 ```
 
 </details>
 
 <details>
-<summary><b>⭐ Bintang & Modifikasi Chat</b></summary>
+<summary><img src="https://img.shields.io/badge/⭐%20CHAT-Bintang%20%26%20Kelola%20Chat-F1C40F?style=for-the-badge&logoColor=white" /></summary>
+
+<br/>
 
 ```javascript
-// Bintangi pesan
-await sock.star(jid, [{ id: msg.key.id, fromMe: false }], true);
+// ⭐ Bintangi / hapus bintang pesan
+await sock.star(jid, [{ id: msg.key.id, fromMe: false }], true);  // bintang
+await sock.star(jid, [{ id: msg.key.id, fromMe: false }], false); // hapus bintang
 
-// Hapus bintang pesan
-await sock.star(jid, [{ id: msg.key.id, fromMe: false }], false);
-
-// Modifikasi chat (arsip, pin, mute, dll)
-await sock.chatModify({ archive: true }, jid);      // arsipkan
-await sock.chatModify({ pin: true }, jid);           // pin chat
-await sock.chatModify({ mute: 8 * 60 * 60 * 1000 }, jid); // mute 8 jam
-await sock.chatModify({ markRead: false }, jid);     // tandai belum dibaca
+// 📁 Kelola chat
+await sock.chatModify({ archive: true }, jid);              // Arsipkan
+await sock.chatModify({ pin: true }, jid);                  // Pin chat
+await sock.chatModify({ mute: 8 * 60 * 60 * 1000 }, jid);  // Mute 8 jam
+await sock.chatModify({ markRead: false }, jid);            // Tandai belum dibaca
 ```
 
 </details>
 
 <details>
-<summary><b>🏪 Bisnis & Katalog</b></summary>
+<summary><img src="https://img.shields.io/badge/🏪%20BISNIS-Katalog%20%26%20Produk-1ABC9C?style=for-the-badge&logoColor=white" /></summary>
+
+<br/>
 
 ```javascript
-// Ambil katalog produk
+// 📦 Katalog produk
 await sock.getCatalog({ jid });
 
-// Buat produk
-await sock.productCreate({ name: 'Produk', price: 10000, currency: 'IDR' });
+// ➕ Buat produk
+await sock.productCreate({ name: 'Nama Produk', price: 15000, currency: 'IDR' });
 
-// Update produk
-await sock.productUpdate(productId, { price: 15000 });
+// ✏️ Update produk
+await sock.productUpdate(productId, { price: 20000 });
 
-// Hapus produk
+// 🗑️ Hapus produk
 await sock.productDelete([productId]);
 
-// Detail pesanan
+// 📋 Detail pesanan
 await sock.getOrderDetails(orderId, tokenBase64);
 ```
 
 </details>
 
----
+<br/>
+
+<img src="https://capsule-render.netlify.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
 
 ## 📡 Events
 
 ```javascript
-sock.ev.on('connection.update', callback)   // Status koneksi
-sock.ev.on('messages.upsert', callback)     // Pesan masuk baru
-sock.ev.on('messages.update', callback)     // Update pesan (baca, dll)
-sock.ev.on('presence.update', callback)     // Update presence (mengetik, dll)
-sock.ev.on('groups.upsert', callback)       // Grup baru
-sock.ev.on('groups.update', callback)       // Update info grup
-sock.ev.on('group-participants.update', callback) // Update anggota grup
-sock.ev.on('chats.upsert', callback)        // Chat baru
-sock.ev.on('contacts.upsert', callback)     // Kontak baru
-sock.ev.on('creds.update', callback)        // Kredensial diperbarui
+sock.ev.on('connection.update', cb)          // 🔌 Status koneksi
+sock.ev.on('messages.upsert', cb)            // 📩 Pesan masuk baru
+sock.ev.on('messages.update', cb)            // 🔄 Update pesan (baca, dll)
+sock.ev.on('presence.update', cb)            // 💡 Update presence (mengetik, dll)
+sock.ev.on('groups.upsert', cb)              // 👥 Grup baru
+sock.ev.on('groups.update', cb)              // ✏️ Update info grup
+sock.ev.on('group-participants.update', cb)  // 👤 Update anggota grup
+sock.ev.on('chats.upsert', cb)               // 💬 Chat baru
+sock.ev.on('contacts.upsert', cb)            // 📇 Kontak baru
+sock.ev.on('creds.update', cb)               // 🔐 Kredensial diperbarui
 ```
 
----
+<br/>
 
-## 🆕 Perubahan & Pembaruan
+<img src="https://capsule-render.netlify.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
 
-### v1.8.28 — Terbaru ✅
-- ✨ **[BARU]** `sendPollMessage()` — Kirim poll/jajak pendapat interaktif
-- ✨ **[BARU]** `editMessage()` — Edit pesan yang sudah terkirim
-- ✅ `groupRequestParticipantsList` & `groupRequestParticipantsUpdate` — Kelola permintaan bergabung grup
-- ✅ `groupMemberAddMode` & `groupMembershipApprovalMode` — Mode bergabung grup
-- ✅ `sendPresenceUpdate` — Indikator mengetik/merekam
-- ✅ `star` — Bintangi/hapus bintang pesan
-- ✅ `fetchStatus`, `fetchBlocklist`, `updateBlockStatus` — Fitur profil & privasi lengkap
-- ✅ Support penuh Newsletter / Channel WhatsApp
-- ✅ Sticker pack support (`𝗔𝘀𝗵𝗶 𝗕𝗼𝘁` | `By ©𝗪𝗶𝗹𝘆`)
-
----
-
-## ⚙️ Konfigurasi Stiker (WM Sticker)
-
-```javascript
-global.stickpack = '𝗔𝘀𝗵𝗶 𝗕𝗼𝘁';
-global.stickauth = 'By ©𝗪𝗶𝗹𝘆';
-```
-
----
-
-## 📋 Syarat Penggunaan
-
-1. **Atribusi** — Tetap cantumkan kredit kepada pengembang.
-2. **Tidak Boleh Disalahgunakan** — Dilarang untuk spam, penipuan, atau aktivitas berbahaya.
-3. **Patuhi WhatsApp ToS** — Pengguna bertanggung jawab atas kepatuhan terhadap Ketentuan Layanan WhatsApp.
-4. **Tanpa Garansi** — Library ini disediakan "apa adanya".
-5. **Kepatuhan Lisensi MIT** — Wajib mematuhi ketentuan MIT License.
-
----
-
-## 🤝 Dukungan
+## 🆕 Changelog
 
 <div align="center">
 
-Butuh bantuan atau punya pertanyaan? Hubungi langsung:
-
-[![WhatsApp](https://img.shields.io/badge/Chat%20via%20WhatsApp-6289688206739-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289688206739)
-[![Telegram](https://img.shields.io/badge/Chat%20via%20Telegram-@Wilykun1994-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Wilykun1994)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=25D366&center=true&vCenter=true&width=600&lines=v1.8.28+—+Latest+Release+✅;sendPollMessage+%26+editMessage+added!;Fully+compatible+with+WhatsApp+2026" />
 
 </div>
 
----
+### `v1.8.28` — Terbaru ✅
 
-## 📄 Lisensi
+| Status | Fitur |
+|--------|-------|
+| ✨ **BARU** | `sendPollMessage()` — Kirim poll/jajak pendapat interaktif |
+| ✨ **BARU** | `editMessage()` — Edit pesan yang sudah terkirim |
+| ✅ | `groupRequestParticipantsList` & `groupRequestParticipantsUpdate` |
+| ✅ | `groupMemberAddMode` & `groupMembershipApprovalMode` |
+| ✅ | `sendPresenceUpdate` — Indikator mengetik / merekam |
+| ✅ | `star` — Bintangi & hapus bintang pesan |
+| ✅ | `fetchStatus`, `fetchBlocklist`, `updateBlockStatus` |
+| ✅ | Newsletter / Channel WhatsApp support penuh |
+| ✅ | Anti bad session & connection auto-recovery |
+| ✅ | Atomic session writes + backup `creds.json.bak` |
+| ✅ | Sticker pack: `𝗔𝘀𝗵𝗶 𝗕𝗼𝘁` \| `By ©𝗪𝗶𝗹𝘆` |
 
-**MIT License** — © 2024–2026 Socketon · Digunakan & dikembangkan oleh **𝗪𝗶𝗹𝘆 𝗞𝘂𝗻**
+<br/>
 
----
+<img src="https://capsule-render.netlify.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
+
+## 📋 Syarat Penggunaan
+
+> Dengan menggunakan library ini, kamu menyetujui ketentuan berikut:
+
+1. **Atribusi** — Tetap cantumkan kredit kepada pengembang.
+2. **Anti Penyalahgunaan** — Dilarang spam, penipuan, atau aktivitas berbahaya.
+3. **Patuhi WhatsApp ToS** — Pengguna bertanggung jawab atas kepatuhan terhadap kebijakan WhatsApp.
+4. **Tanpa Garansi** — Library disediakan *"apa adanya"*.
+5. **Lisensi MIT** — Wajib mematuhi ketentuan MIT License.
+
+<br/>
+
+## 🤝 Support & Bantuan
 
 <div align="center">
 
-**Made with ❤️ by [𝗪𝗶𝗹𝘆 𝗞𝘂𝗻](https://wa.me/6289688206739) for 𝗔𝘀𝗵𝗶 𝗕𝗼𝘁**
+> Butuh bantuan? Hubungi langsung via:
 
-<img src="https://komarev.com/ghpvc/?username=ashibot-wilykun&label=Profile+Views&color=25D366&style=flat" alt="views" />
+[![WhatsApp](https://img.shields.io/badge/💬%20Chat%20WA-6289688206739-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54)](https://wa.me/6289688206739)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/✈️%20Telegram-@Wilykun1994-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a)](https://t.me/Wilykun1994)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.netlify.app/api?type=waving&color=0:075E54,50:128C7E,100:25D366&height=120&section=footer&text=Made%20with%20❤️%20by%20𝗪𝗶𝗹𝘆%20𝗞𝘂𝗻&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<div align="center">
+
+<sub>© 2024–2026 <b>𝗪𝗶𝗹𝘆 𝗞𝘂𝗻</b> · Ashi Bot · MIT License</sub>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ashi-bot-wilykun&label=👀%20Dilihat&color=25D366&style=flat-square" alt="views"/>
 
 </div>
