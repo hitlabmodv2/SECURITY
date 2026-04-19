@@ -213,14 +213,32 @@ AshiBot();
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=25D366&center=true&vCenter=true&width=600&lines=💬+Kirim+teks%2C+gambar%2C+video%2C+audio+%26+dokumen;📊+Buat+Poll+Interaktif+%28BARU%29;✏️+Edit+Pesan+Terkirim+%28BARU%29;👥+Kelola+Grup+%26+Anggota+secara+penuh;📰+Support+Newsletter+%2F+Channel+WhatsApp;🔐+QR+%26+Pairing+Code+Authentication" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=25D366&center=true&vCenter=true&width=600&lines=💬+Pesan+%7C+📊+Poll+%7C+✏️+Edit+%7C+👥+Grup;📰+Newsletter+%7C+🔐+Auth+%7C+👤+Profil;💡+Presence+%7C+⭐+Chat+%7C+🏪+Bisnis" />
 
 </div>
 
 <br/>
 
+> 📌 **Klik salah satu kategori di bawah untuk melihat panduan lengkapnya.**
+
+<div align="center">
+
+| 📨 Kirim Pesan | 📊 Poll | ✏️ Edit Pesan | 👥 Grup |
+|:-:|:-:|:-:|:-:|
+| [Buka ↓](#-1--kirim-pesan) | [Buka ↓](#-2--poll--jajak-pendapat--baru) | [Buka ↓](#-3--edit-pesan--baru) | [Buka ↓](#-4--grup) |
+| **📰 Newsletter** | **🔐 Auth** | **👤 Profil** | **💡 Presence** |
+| [Buka ↓](#-5--newsletter--channel) | [Buka ↓](#-6--autentikasi) | [Buka ↓](#-7--profil--privasi) | [Buka ↓](#-8--presence) |
+| **⭐ Chat** | **🏪 Bisnis** | | |
+| [Buka ↓](#-9--bintang--kelola-chat) | [Buka ↓](#-10--bisnis--katalog) | | |
+
+</div>
+
+---
+
+### 📨 1 — Kirim Pesan
+
 <details>
-<summary><img src="https://img.shields.io/badge/💬%20PESAN-Messages-25D366?style=for-the-badge&logoColor=white" /></summary>
+<summary><b>💬 Lihat semua jenis pesan yang bisa dikirim →</b></summary>
 
 <br/>
 
@@ -234,11 +252,11 @@ await sock.sendMessage(jid, { image: { url: './foto.jpg' }, caption: 'Caption ke
 // 🎬 Video
 await sock.sendMessage(jid, { video: { url: './video.mp4' }, caption: 'Video' });
 
-// 🎵 Audio (Voice Note)
+// 🎵 Audio / Voice Note
 await sock.sendMessage(jid, { audio: { url: './audio.mp3' }, mimetype: 'audio/mp4', ptt: true });
 
 // 📄 Dokumen
-await sock.sendMessage(jid, { document: { url: './file.pdf' }, mimetype: 'application/pdf', fileName: 'dokumen.pdf' });
+await sock.sendMessage(jid, { document: { url: './file.pdf' }, mimetype: 'application/pdf', fileName: 'file.pdf' });
 
 // 🎭 Stiker
 await sock.sendMessage(jid, { sticker: { url: './sticker.webp' } });
@@ -252,27 +270,31 @@ await sock.sendMessage(jid, { contacts: { displayName: 'Wily Kun', contacts: [{ 
 // ❤️ Reaksi Pesan
 await sock.sendMessage(jid, { react: { key: msg.key, text: '🔥' } });
 
-// 💬 Balas (Quoted)
+// 💬 Balas / Quoted
 await sock.sendMessage(jid, { text: 'Ini balasan!' }, { quoted: msg });
 
 // 🗑️ Hapus Pesan
 await sock.sendMessage(jid, { delete: msg.key });
 
-// ✏️ Edit Pesan
+// ✏️ Edit Pesan (via sendMessage)
 await sock.sendMessage(jid, { edit: msg.key, text: 'Teks sudah diedit ✅' });
 ```
 
 </details>
 
+---
+
+### 📊 2 — Poll / Jajak Pendapat ✨ BARU
+
 <details>
-<summary><img src="https://img.shields.io/badge/📊%20POLL-Jajak%20Pendapat%20✨%20BARU-FF6B35?style=for-the-badge&logoColor=white" /></summary>
+<summary><b>📊 Lihat cara kirim poll interaktif →</b></summary>
 
 <br/>
 
-> Fitur **baru** dari Baileys — kirim poll interaktif langsung dari bot!
+> Fitur **baru** — kirim poll/survey langsung dari bot!
 
 ```javascript
-// 📊 Kirim Poll (pilih 1)
+// Pilih 1 jawaban
 await sock.sendPollMessage(
     jid,
     '🍜 Menu favorit kamu?',
@@ -280,10 +302,10 @@ await sock.sendPollMessage(
     1
 );
 
-// 📊 Poll Multi-Pilih (pilih lebih dari 1)
+// Pilih lebih dari 1
 await sock.sendPollMessage(
     jid,
-    '🎮 Hobi kamu? (boleh pilih 3)',
+    '🎮 Pilih hobimu (max 3):',
     ['Gaming', 'Coding', 'Musik', 'Olahraga', 'Nonton'],
     3
 );
@@ -291,49 +313,56 @@ await sock.sendPollMessage(
 
 </details>
 
+---
+
+### ✏️ 3 — Edit Pesan ✨ BARU
+
 <details>
-<summary><img src="https://img.shields.io/badge/✏️%20EDIT-Edit%20Pesan%20✨%20BARU-9B59B6?style=for-the-badge&logoColor=white" /></summary>
+<summary><b>✏️ Lihat cara edit pesan yang sudah terkirim →</b></summary>
 
 <br/>
 
-> Edit pesan yang sudah terkirim — cocok untuk bot info yang perlu update.
+> Cocok untuk bot info yang perlu update data secara realtime.
 
 ```javascript
 // Kirim pesan dulu
-const sentMsg = await sock.sendMessage(jid, { text: '🕐 Loading...' });
+const sentMsg = await sock.sendMessage(jid, { text: '🕐 Memproses...' });
 
-// Lalu edit pesannya
-await sock.editMessage(jid, sentMsg, 'Data sudah diperbarui ✅');
-// atau dengan object
-await sock.editMessage(jid, sentMsg, { text: '✅ Selesai diproses!' });
+// Edit pesan tersebut
+await sock.editMessage(jid, sentMsg, 'Selesai diproses! ✅');
+
+// Atau dengan object
+await sock.editMessage(jid, sentMsg, { text: '✅ Data sudah diperbarui!' });
 ```
 
 </details>
 
+---
+
+### 👥 4 — Grup
+
 <details>
-<summary><img src="https://img.shields.io/badge/👥%20GRUP-Group%20Management-128C7E?style=for-the-badge&logoColor=white" /></summary>
+<summary><b>👥 Lihat semua fitur manajemen grup →</b></summary>
 
 <br/>
 
 ```javascript
 // 🆕 Buat grup
-await sock.groupCreate('Nama Grup Keren', ['628xxx@s.whatsapp.net']);
+await sock.groupCreate('Nama Grup', ['628xxx@s.whatsapp.net']);
 
 // 👤 Kelola anggota
-await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'add');      // Tambah
-await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'remove');   // Hapus
+await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'add');     // Tambah
+await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'remove');  // Hapus
 await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'promote'); // Jadikan Admin
 await sock.groupParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'demote');  // Turunkan Admin
 
-// 📋 Info grup
+// 📋 Info & Undangan
 const meta = await sock.groupMetadata(jid);
-
-// 🔗 Kode undangan
 const code = await sock.groupInviteCode(jid);
-await sock.groupRevokeInvite(jid);         // Reset kode undangan
-await sock.groupAcceptInvite('kodenya');   // Gabung via kode
+await sock.groupRevokeInvite(jid);
+await sock.groupAcceptInvite('kodenya');
 
-// ✏️ Edit nama & deskripsi
+// ✏️ Edit info grup
 await sock.groupUpdateSubject(jid, 'Nama Baru');
 await sock.groupUpdateDescription(jid, 'Deskripsi baru');
 
@@ -341,31 +370,32 @@ await sock.groupUpdateDescription(jid, 'Deskripsi baru');
 await sock.groupToggleEphemeral(jid, 86400);   // 1 hari
 await sock.groupToggleEphemeral(jid, 604800);  // 7 hari
 
-// ⚙️ Mode bergabung
-await sock.groupMemberAddMode(jid, 'admin_add');      // Admin only
-await sock.groupMemberAddMode(jid, 'all_member_add'); // Semua bisa ajak
-
-// ✅ Kelola permintaan bergabung
-const requests = await sock.groupRequestParticipantsList(jid);
+// ⚙️ Mode bergabung & Kelola request
+await sock.groupMemberAddMode(jid, 'admin_add');
+const req = await sock.groupRequestParticipantsList(jid);
 await sock.groupRequestParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'approve');
 await sock.groupRequestParticipantsUpdate(jid, ['628xxx@s.whatsapp.net'], 'reject');
 
-// 🚪 Keluar grup
+// 🚪 Keluar
 await sock.groupLeave(jid);
 ```
 
 </details>
 
+---
+
+### 📰 5 — Newsletter / Channel
+
 <details>
-<summary><img src="https://img.shields.io/badge/📰%20NEWSLETTER-Channel%20WhatsApp-075E54?style=for-the-badge&logoColor=white" /></summary>
+<summary><b>📰 Lihat fitur newsletter & channel WhatsApp →</b></summary>
 
 <br/>
 
 ```javascript
 // 🆕 Buat newsletter
-await sock.newsletterCreate('Nama Channel', 'Deskripsi channel keren', ['👍', '🔥']);
+await sock.newsletterCreate('Nama Channel', 'Deskripsi', ['👍', '🔥']);
 
-// ➕ Ikuti / berhenti ikuti
+// ➕ Follow / Unfollow
 await sock.newsletterFollow(newsletterJid);
 await sock.newsletterUnfollow(newsletterJid);
 
@@ -378,109 +408,127 @@ await sock.newsletterReactMessage(newsletterJid, serverId, '🔥');
 
 </details>
 
+---
+
+### 🔐 6 — Autentikasi
+
 <details>
-<summary><img src="https://img.shields.io/badge/🔐%20AUTH-Autentikasi-3498DB?style=for-the-badge&logoColor=white" /></summary>
+<summary><b>🔐 Lihat cara login QR Code & Pairing Code →</b></summary>
 
 <br/>
 
 ```javascript
-// 📱 QR Code (scan biasa)
+// 📱 QR Code — scan dengan HP
 const sock = makeWASocket({ printQRInTerminal: true });
 
-// 🔢 Pairing Code (tanpa scan QR — lebih mudah!)
+// 🔢 Pairing Code — tanpa scan QR (lebih mudah!)
 const sock = makeWASocket({ printQRInTerminal: false });
 const code = await sock.requestPairingCode('628xxxxxxxxxx');
-console.log('Kode Pairing:', code); // Masukkan di WhatsApp > Perangkat Tertaut
+console.log('Kode:', code); // Masukkan di WhatsApp › Perangkat Tertaut
 
-// 💾 Simpan sesi
-const { state, saveCreds } = await useMultiFileAuthState('./auth_folder');
+// 💾 Simpan sesi agar tidak login ulang
+const { state, saveCreds } = await useMultiFileAuthState('./auth');
 sock.ev.on('creds.update', saveCreds);
 ```
 
 </details>
 
+---
+
+### 👤 7 — Profil & Privasi
+
 <details>
-<summary><img src="https://img.shields.io/badge/👤%20PROFIL-Profile%20%26%20Privasi-E74C3C?style=for-the-badge&logoColor=white" /></summary>
+<summary><b>👤 Lihat fitur profil, privasi, dan blokir →</b></summary>
 
 <br/>
 
 ```javascript
-// 🖼️ Update foto profil
+// 🖼️ Update foto & info profil
 await sock.updateProfilePicture(jid, { url: './foto.jpg' });
-
-// 📝 Update nama & status/bio
 await sock.updateProfileName('𝗔𝘀𝗵𝗶 𝗕𝗼𝘁 🤖');
-await sock.updateProfileStatus('Ashi Bot aktif 24 jam! 🚀');
+await sock.updateProfileStatus('Aktif 24 jam! 🚀');
 
-// 🔍 Ambil info kontak
-const fotoUrl = await sock.profilePictureUrl(jid, 'image');
+// 🔍 Ambil data kontak
+const foto    = await sock.profilePictureUrl(jid, 'image');
 const status  = await sock.fetchStatus(jid);
 const privacy = await sock.fetchPrivacySettings();
 
-// 🚫 Blokir / buka blokir
+// 🚫 Blokir & buka blokir
 await sock.updateBlockStatus(jid, 'block');
 await sock.updateBlockStatus(jid, 'unblock');
-const blocklist = await sock.fetchBlocklist();
+const list = await sock.fetchBlocklist();
 ```
 
 </details>
 
+---
+
+### 💡 8 — Presence
+
 <details>
-<summary><img src="https://img.shields.io/badge/💡%20PRESENCE-Indikator%20Mengetik-F39C12?style=for-the-badge&logoColor=white" /></summary>
+<summary><b>💡 Lihat cara tampilkan indikator mengetik & merekam →</b></summary>
 
 <br/>
 
 ```javascript
-// ⌨️ Tampilkan "sedang mengetik..."
+// ⌨️ Sedang mengetik...
 await sock.sendPresenceUpdate('composing', jid);
 
-// 🎙️ Tampilkan "sedang merekam audio..."
+// 🎙️ Sedang merekam audio...
 await sock.sendPresenceUpdate('recording', jid);
 
-// ⏸️ Hentikan indikator
+// ⏸️ Berhenti
 await sock.sendPresenceUpdate('paused', jid);
 
-// 👁️ Subscribe ke presence orang lain
+// 👁️ Pantau presence orang lain
 await sock.presenceSubscribe(jid);
 ```
 
 </details>
 
+---
+
+### ⭐ 9 — Bintang & Kelola Chat
+
 <details>
-<summary><img src="https://img.shields.io/badge/⭐%20CHAT-Bintang%20%26%20Kelola%20Chat-F1C40F?style=for-the-badge&logoColor=white" /></summary>
+<summary><b>⭐ Lihat fitur bintang pesan dan kelola chat →</b></summary>
 
 <br/>
 
 ```javascript
-// ⭐ Bintangi / hapus bintang pesan
-await sock.star(jid, [{ id: msg.key.id, fromMe: false }], true);  // bintang
-await sock.star(jid, [{ id: msg.key.id, fromMe: false }], false); // hapus bintang
+// ⭐ Bintangi pesan
+await sock.star(jid, [{ id: msg.key.id, fromMe: false }], true);
+
+// 🌟 Hapus bintang
+await sock.star(jid, [{ id: msg.key.id, fromMe: false }], false);
 
 // 📁 Kelola chat
 await sock.chatModify({ archive: true }, jid);              // Arsipkan
-await sock.chatModify({ pin: true }, jid);                  // Pin chat
+await sock.chatModify({ pin: true }, jid);                  // Pin
 await sock.chatModify({ mute: 8 * 60 * 60 * 1000 }, jid);  // Mute 8 jam
-await sock.chatModify({ markRead: false }, jid);            // Tandai belum dibaca
+await sock.chatModify({ markRead: false }, jid);            // Belum dibaca
 ```
 
 </details>
 
+---
+
+### 🏪 10 — Bisnis & Katalog
+
 <details>
-<summary><img src="https://img.shields.io/badge/🏪%20BISNIS-Katalog%20%26%20Produk-1ABC9C?style=for-the-badge&logoColor=white" /></summary>
+<summary><b>🏪 Lihat fitur katalog produk & pesanan →</b></summary>
 
 <br/>
 
 ```javascript
-// 📦 Katalog produk
+// 📦 Lihat katalog
 await sock.getCatalog({ jid });
 
-// ➕ Buat produk
+// ➕ Tambah produk
 await sock.productCreate({ name: 'Nama Produk', price: 15000, currency: 'IDR' });
 
-// ✏️ Update produk
+// ✏️ Edit & hapus produk
 await sock.productUpdate(productId, { price: 20000 });
-
-// 🗑️ Hapus produk
 await sock.productDelete([productId]);
 
 // 📋 Detail pesanan
