@@ -1,8 +1,8 @@
-<img src="https://capsule-render.netlify.app/api?type=waving&color=0:075E54,50:128C7E,100:25D366&height=220&section=header&text=Ashi%20Bot&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=WhatsApp%20Bot%20API%20%7C%20Socketon%20%2B%20Baileys&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075E54,50:128C7E,100:25D366&height=220&section=header&text=Ashi%20Bot&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=WhatsApp%20Bot%20API%20%7C%20Socketon%20%2B%20Baileys&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=800&color=25D366&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=⚡+Socketon+WhatsApp+Bot+API+v1.8.28;🚀+Powered+by+Baileys+%2B+Node.js+%3E%3D+20;🤖+Ashi+Bot+—+By+𝗪𝗶𝗹𝘆+𝗞𝘂𝗻;💬+Poll+%7C+Edit+%7C+Group+%7C+Newsletter+%7C+More!;🔥+Active+%26+Always+Updated+2026" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=800&color=25D366&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Socketon+WhatsApp+Bot+API+v1.8.28;Powered+by+Baileys+%2B+Node.js+%3E%3D+20;Ashi+Bot+by+Wily+Kun;Poll+%7C+Edit+%7C+Group+%7C+Newsletter+%7C+More;Active+and+Always+Updated+2026" alt="Typing Animation"/>
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 </div>
 
-<img src="https://capsule-render.netlify.app/api?type=rect&color=0:25D366,100:075E54&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:25D366,100:075E54&height=3&section=header" width="100%"/>
 
 <br/>
 
@@ -38,7 +38,7 @@
 
 ### 🧑‍💻 Profil Owner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=25D366&center=true&vCenter=true&width=300&lines=𝗪𝗶𝗹𝘆+𝗞𝘂𝗻;Bot+Developer+%26+Owner;WhatsApp+Bot+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=25D366&center=true&vCenter=true&width=300&lines=Wily+Kun;Bot+Developer+%26+Owner;WhatsApp+Bot+Enthusiast" />
 
 | | |
 |--|--|
@@ -151,7 +151,7 @@ global.stickauth = 'By ©𝗪𝗶𝗹𝘆'
 
 </div>
 
-<img src="https://capsule-render.netlify.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
 
 <br/>
 
@@ -205,13 +205,13 @@ AshiBot();
 
 <br/>
 
-<img src="https://capsule-render.netlify.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
 
 ## 🚀 Fitur Lengkap
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=25D366&center=true&vCenter=true&width=600&lines=💬+Pesan+%7C+📊+Poll+%7C+✏️+Edit+%7C+👥+Grup;📰+Newsletter+%7C+🔐+Auth+%7C+👤+Profil;💡+Presence+%7C+⭐+Chat+%7C+🏪+Bisnis" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=25D366&center=true&vCenter=true&width=600&lines=Pesan+%7C+Poll+%7C+Edit+Pesan+%7C+Grup;Newsletter+%7C+Auth+%7C+Profil+%7C+Privasi;Presence+%7C+Chat+%7C+Bisnis+%7C+Katalog" />
 
 </div>
 
@@ -537,7 +537,7 @@ await sock.getOrderDetails(orderId, tokenBase64);
 
 <br/>
 
-<img src="https://capsule-render.netlify.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
 
 ## 📡 Events
 
@@ -556,13 +556,13 @@ sock.ev.on('creds.update', cb)               // 🔐 Kredensial diperbarui
 
 <br/>
 
-<img src="https://capsule-render.netlify.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
 
 ## 🆕 Changelog
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=25D366&center=true&vCenter=true&width=600&lines=v1.8.28+—+Latest+Release+✅;sendPollMessage+%26+editMessage+added!;Fully+compatible+with+WhatsApp+2026" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=25D366&center=true&vCenter=true&width=600&lines=v1.8.28+-+Latest+Release;sendPollMessage+%26+editMessage+added!;Fully+compatible+with+WhatsApp+2026" />
 
 </div>
 
@@ -584,7 +584,7 @@ sock.ev.on('creds.update', cb)               // 🔐 Kredensial diperbarui
 
 <br/>
 
-<img src="https://capsule-render.netlify.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:25D366,100:075E54&height=2" width="100%"/>
 
 ## 📋 Syarat Penggunaan
 
@@ -612,7 +612,7 @@ sock.ev.on('creds.update', cb)               // 🔐 Kredensial diperbarui
 
 <br/>
 
-<img src="https://capsule-render.netlify.app/api?type=waving&color=0:075E54,50:128C7E,100:25D366&height=120&section=footer&text=Made%20with%20❤️%20by%20𝗪𝗶𝗹𝘆%20𝗞𝘂𝗻&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075E54,50:128C7E,100:25D366&height=120&section=footer&text=Made%20with%20❤️%20by%20𝗪𝗶𝗹𝘆%20𝗞𝘂𝗻&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
