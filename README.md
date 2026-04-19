@@ -1,6 +1,4 @@
-<a href="https://github.com/IbraDecode/socketon">
-<img src="https://capsule-render.netlify.app/api?type=waving&color=0:075E54,50:128C7E,100:25D366&height=220&section=header&text=🤖%20Ashi%20Bot&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=WhatsApp%20Bot%20API%20%7C%20Socketon%20%2B%20Baileys&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
-</a>
+<img src="https://capsule-render.netlify.app/api?type=waving&color=0:075E54,50:128C7E,100:25D366&height=220&section=header&text=Ashi%20Bot&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=WhatsApp%20Bot%20API%20%7C%20Socketon%20%2B%20Baileys&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -8,13 +6,13 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%F0%9F%93%A6%20Version%201.8.28-25D366?style=for-the-badge&labelColor=075E54" />
+<img src="https://img.shields.io/badge/Version-1.8.28-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54" />
 &nbsp;
-<img src="https://img.shields.io/badge/Node.js-%E2%89%A5%2020.0.0-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Node.js-%3E%3D%2020.0.0-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a" />
 &nbsp;
-<img src="https://img.shields.io/badge/License-MIT-3572A5?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/License-MIT-3572A5?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a1a" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-🟢%20Active-brightgreen?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a1a1a" />
 
 <br/><br/>
 
