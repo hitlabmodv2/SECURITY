@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Version-1.8.28-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54" />
 &nbsp;
-<img src="https://img.shields.io/badge/Node.js-%3E%3D%2020.0.0-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Node.js-20--24-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a" />
 &nbsp;
 <img src="https://img.shields.io/badge/License-MIT-3572A5?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a1a" />
 &nbsp;
@@ -161,7 +161,7 @@ global.stickauth = 'By ©𝗪𝗶𝗹𝘆'
 npm install socketon
 ```
 
-> ⚡ **Persyaratan:** Node.js `>= 20.0.0`
+> ⚡ **Persyaratan:** Node.js `20` · `21` · `22` · `23` · `24` (LTS & Current)
 
 <br/>
 
